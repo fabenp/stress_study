@@ -13,5 +13,6 @@ This repositroy contains the jupyter notebook of this investigation as well as t
 
 link for my Medium article https://medium.com/@fatma.ben.dhieb/3-things-to-do-for-a-work-life-balance-21be60f9fb5b
 
-link for the dataset in kaggle: https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data
+link for the dataset in kaggle: https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data  
+
 link for the survey:http://www.authentic-happiness.com/your-life-satisfaction-score
