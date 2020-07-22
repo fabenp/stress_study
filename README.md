@@ -16,15 +16,21 @@ This notebook  is an exploration of this dataset with the intent to understand o
 numpay, pandas, matpllotlib, seaborn, os
 
 **Files in this repository**   
-jupyter notebook: it contains the details of the data cleaning, and the plots used to interpret the data.
+jupyter notebook: it contains the details of the data cleaning, and the plots used to interpret the data.   
+
 dataset: the dataset is provided by Yvon Dalat on kaggle:https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data. it gathers 12,757 survery responses for a survey called:
 "Your work-life balance score" (http://www.authentic-happiness.com/your-life-satisfaction-score)
 
 **Summary of the results**  
-To understand the relation between those attributes 
+the main results were:
+ - 21 to 50 years old, is the stressful 30 years.
+ - Women are more stressed
+ - The more stressed people are usually the ones that works more, in other  words, lose some of their vacation days. this is also correlated with the age, the younger people    are, the more they prioritize work over vacation
+ - People with higher achievement and  better life vision are the ones who take the time to meditate and have more time for passion, meaning doing what they love.
+ 
 
 **Acknowledgements**   
-A special thank for Yvon Dalat that provided this dataset
+A special thank for Yvon Dalat that provided this dataset.
 
 **Medium article**  
  https://medium.com/@fatma.ben.dhieb/3-things-to-do-for-a-work-life-balance-21be60f9fb5b
