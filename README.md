@@ -1,4 +1,6 @@
-The dataset form kaggle on which is based this notebook, is a result of a survey of more than 10 000 people. The aim of it was to investigate five main aspects of our lives: 
+**Motivation of this project
+
+Aa survey of more than 10 000 people invetigated five main aspects of our lives: 
 
 1. Healthy body, reflecting your fitness and healthy habits;
 2. Healthy mind, indicating how well you embrace positive emotions;
@@ -6,20 +8,24 @@ The dataset form kaggle on which is based this notebook, is a result of a survey
 4. Connection, assessing the strength of your social network and your inclination to discover the world;
 5. Meaning, evaluating your compassion, generosity and how much 'you are living the life of your dream'.
 
-This notebook  is an exploration of this dataset with the intent to understand our daily habits and their impact on our daily stress.
+This was done with questions related to 23 attributes,among them: daily stress, daily shouting, lost vacation, daily consumption of fruits and vegetables, daily steps, BMI range, sufficient salary,core circle , achievement, life  vision,time for passion, flow, sleep hours.
 
-This repositroy contains:
+This notebook  is an exploration of this dataset with the intent to understand our daily habits, their impact on our daily stress and on what to focus more to have a work-life balance
 
-the jupyter notebook of this investigation
-the dataset used.
+**Libraries used**
+numpay, pandas, matpllotlib, seaborn, os
 
+**Files in this repository**
+jupyter notebook: it contains the details of the data cleaning, and the plots used to interpret the data.
+dataset: the dataset is provided by Yvon Dalat on kaggle:https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data. it gathers 12,757 survery responses for a survey called:
+"Your work-life balance score" (http://www.authentic-happiness.com/your-life-satisfaction-score)
+
+**Summary of the results**
+To understand the relation between those attributes 
 
 **Acknowledgements:** 
-A special thank for Yvon Dalat that provided this dataset in kaggle:
-link for the dataset in kaggle: https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data  
-link for the survey:http://www.authentic-happiness.com/your-life-satisfaction-score
+A special thank for Yvon Dalat that provided this dataset
 
 **Medium article**
-
  https://medium.com/@fatma.ben.dhieb/3-things-to-do-for-a-work-life-balance-21be60f9fb5b
 
