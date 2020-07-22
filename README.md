@@ -23,7 +23,7 @@ dataset: the dataset is provided by Yvon Dalat on kaggle:https://www.kaggle.com/
 
 **Summary of the results**  
 the main results were:
- - 21 to 50 years old, is the stressful 30 years.
+ - 21 to 50 years old, are the mpst stressful 30 years in our lives.
  - Women are more stressed
  - The more stressed people are usually the ones that works more, in other  words, lose some of their vacation days. this is also correlated with the age, the younger people    are, the more they prioritize work over vacation
  - People with higher achievement and  better life vision are the ones who take the time to meditate and have more time for passion, meaning doing what they love.
