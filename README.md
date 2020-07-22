@@ -8,9 +8,9 @@ Aa survey of more than 10 000 people invetigated five main aspects of our lives:
 4. Connection, assessing the strength of your social network and your inclination to discover the world;
 5. Meaning, evaluating your compassion, generosity and how much 'you are living the life of your dream'.
 
-This was done with questions related to 23 attributes,among them: daily stress, daily shouting, lost vacation, daily consumption of fruits and vegetables, daily steps, BMI range, sufficient salary,core circle , achievement, life  vision,time for passion, flow, sleep hours.
+This was done with questions related to 23 attributes, among them: daily stress, daily shouting, lost vacation, daily consumption of fruits and vegetables, daily steps, BMI range, sufficient salary, core circle, achievement, life  vision, time for passion, flow, sleep hours.
 
-This notebook  is an exploration of this dataset with the intent to understand our daily habits, their impact on our daily stress and on what to focus more to have a work-life balance
+This notebook is an exploration of this dataset with the intent to understand our daily habits, their impact on our daily stress and on what to focus more to have a work-life balance
 
 **Libraries used**  
 numpay, pandas, matpllotlib, seaborn, os
@@ -23,7 +23,7 @@ dataset: the dataset is provided by Yvon Dalat on kaggle:https://www.kaggle.com/
 
 **Summary of the results**  
 the main results were:
- - 21 to 50 years old, are the mpst stressful 30 years in our lives.
+ - 21 to 50 years old, are the most stressful 30 years of our lives.
  - Women are more stressed
  - The more stressed people are usually the ones that works more, in other  words, lose some of their vacation days. this is also correlated with the age, the younger people    are, the more they prioritize work over vacation
  - People with higher achievement and  better life vision are the ones who take the time to meditate and have more time for passion, meaning doing what they love.
