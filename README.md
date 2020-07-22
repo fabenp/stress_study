@@ -1,4 +1,4 @@
-**Motivation of this project
+**Motivation of this project**  
 
 Aa survey of more than 10 000 people invetigated five main aspects of our lives: 
 
@@ -12,20 +12,20 @@ This was done with questions related to 23 attributes,among them: daily stress, 
 
 This notebook  is an exploration of this dataset with the intent to understand our daily habits, their impact on our daily stress and on what to focus more to have a work-life balance
 
-**Libraries used**
+**Libraries used**  
 numpay, pandas, matpllotlib, seaborn, os
 
-**Files in this repository**
+**Files in this repository**   
 jupyter notebook: it contains the details of the data cleaning, and the plots used to interpret the data.
 dataset: the dataset is provided by Yvon Dalat on kaggle:https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data. it gathers 12,757 survery responses for a survey called:
 "Your work-life balance score" (http://www.authentic-happiness.com/your-life-satisfaction-score)
 
-**Summary of the results**
+**Summary of the results**  
 To understand the relation between those attributes 
 
-**Acknowledgements:** 
+**Acknowledgements**   
 A special thank for Yvon Dalat that provided this dataset
 
-**Medium article**
+**Medium article**  
  https://medium.com/@fatma.ben.dhieb/3-things-to-do-for-a-work-life-balance-21be60f9fb5b
 
