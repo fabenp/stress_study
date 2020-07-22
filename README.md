@@ -8,11 +8,18 @@ The dataset form kaggle on which is based this notebook, is a result of a survey
 
 This notebook  is an exploration of this dataset with the intent to understand our daily habits and their impact on our daily stress.
 
-This repositroy contains the jupyter notebook of this investigation as well as the dataset used.
+This repositroy contains:
+
+the jupyter notebook of this investigation
+the dataset used.
 
 
-link for my Medium article https://medium.com/@fatma.ben.dhieb/3-things-to-do-for-a-work-life-balance-21be60f9fb5b
-
+**Acknowledgements:** 
+A special thank for Yvon Dalat that provided this dataset in kaggle:
 link for the dataset in kaggle: https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data  
-
 link for the survey:http://www.authentic-happiness.com/your-life-satisfaction-score
+
+**Medium article**
+
+ https://medium.com/@fatma.ben.dhieb/3-things-to-do-for-a-work-life-balance-21be60f9fb5b
+
