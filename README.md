@@ -1,6 +1,6 @@
 **Motivation of this project**  
 
-Aa survey of more than 10 000 people invetigated five main aspects of our lives: 
+A survey of more than 10 000 people invetigated five main aspects of our lives: 
 
 1. Healthy body, reflecting your fitness and healthy habits;
 2. Healthy mind, indicating how well you embrace positive emotions;
